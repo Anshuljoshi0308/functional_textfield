@@ -90,5 +90,5 @@ class MyApp extends StatelessWidget {
 
 ```
 ## Contact
-For support, issues, or feature requests, please contact Anshul Joshi via [email](mailto:CodeBunks@gmail.com) or visit the [GitHub repository](https://github.com/Anshuljoshi0308/functional_textfield).
+For support, issues, or feature requests, please contact Anshul Joshi via [email](mailto:CodeBunks@gmail.com) or visit the [GitHub repository](GitHub repository](https://github.com/Anshuljoshi0308/functional_textfield).
 
